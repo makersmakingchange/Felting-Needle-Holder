@@ -1,0 +1,62 @@
+title: Felting Needle Holder Ball
+description: The Felting Needle Holder is a 3d printed aid for making it easier to hold and
+  manipulate a felting needle. The holder is ball shaped with a diameter of 50
+  mm (~2 inch).
+intended-use: This open assistive technology is intended to make it easier for people with
+  disabilities to use a felting needle.
+keywords:
+  - assistive technology
+  - disability
+  - 3D printing
+  - felting
+project-link: https://github.com/makersmakingchange/Felting-Needle-Holder
+image: https://github.com/makersmakingchange/Felting-Needle-Holder/raw/main/Photos/Felting_Needle_Holder.jpg
+made: true
+made-independently: false
+license:
+  hardware: CERN-OHL-W-2.0
+  documentation: CC-BY-SA-4.0
+licensor:
+  name: Jacob McIvor
+  affiliation: Neil Squire Society
+  email: jakem@neilsquire.ca
+okh-manifest-version: 1.0.0
+date-created: 2024-05-17
+date-updated: 2024-05-17
+manifest-author:
+  name: Jacob McIvor
+  affiliation: Neil Squire Society
+  email: jakem@neilsquire.ca
+manifest-language: en-CA
+contact:
+  name: Makers Making Change
+  affiliation: Neil Squire Society
+  email: contact
+  social:
+    - platform: Instagram
+      user-handle: "@makermakingchange"
+    - platform: X (Twitter)
+      user-handle: "@makermakechange"
+contributors:
+  - name: Jacob McIvor
+    affiliation: Neil Squire Society
+    email: jakem@neilsquire.ca
+version: "1.0"
+development-stage: product
+documentation-home: https://github.com/makersmakingchange/Felting-Needle-Holder
+archive-download: https://github.com/makersmakingchange/Felting-Needle-Holder/archive/refs/heads/main.zip
+design-files:
+  - path: https://github.com/makersmakingchange/Felting-Needle-Holder/tree/main/Design_Files/CAD_Design_Files
+    title: CAD Design Files
+documentation-language: en-CA
+bom: https://github.com/makersmakingchange/Felting-Needle-Holder/blob/main/Documentation/Felting_Needle_Holder_BOM.csv
+tool-list: https://github.com/makersmakingchange/Felting-Needle-Holder/blob/main/Documentation/Felting_Needle_Holder_Maker_Guide.pdf
+making-instructions:
+  - path: https://github.com/makersmakingchange/Felting-Needle-Holder/blob/main/Documentation/Felting_Needle_Holder_Maker_Guide.pdf
+    title: Felting Needle Holder Maker Guide
+manufacturing-files:
+  - path: https://github.com/makersmakingchange/Felting-Needle-Holder/tree/main/Build_Files/3D_Printing_Files
+    title: 3D Printing Files
+operating-instructions:
+  - path: https://github.com/makersmakingchange/Felting-Needle-Holder/blob/main/Documentation/Felting_Needle_Holder_User_Guide.pdf
+    title: User Guide
