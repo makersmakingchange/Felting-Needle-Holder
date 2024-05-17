@@ -1,5 +1,16 @@
-Version 0.1 | YYYY-mmm-DD
- - Initial Prototype
+Version 1.0 | 2024-May-16
+ - Added threaded cover
+ - Full documentation release
+
+Version 0.3 | 2023-Mar-15
+ - Initial user guide
+
+Version 0.2 | 2022-Oct-21
+ - Added lock labels and arrows
+
+Version 0.1 | 2022-Oct-19
+ - Initial prototype: two spherical halves with threaded connector
+
 
 
 

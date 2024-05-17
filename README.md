@@ -1,52 +1,28 @@
-
 <!--- 
-Open Source Assistive Technology: GitHub Readme Template
-Version 1.1 (2024-Mar-15)
+Open Source Assistive Technology: GitHub Readme Template Version 1.1 (2024-Mar-15)
  --->
 
 <!--- 
-Introductory text. This section and the following text should be removed.
- --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. More information about how to use the template is available in the [Documentation_Guide](/Documentation_Guide.docx). You can see examples of other Open AT Devices at the Makers Making Change [website](https://www.makersmakingchange.com/s/category/assistive-devices). 
-
-<!---
-INSTRUCTIONS
-This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
-
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
-
-This template has a number of fields that can be searched and replaced with other text:
- - <Device_Name> Replace this with filename-friendly version of the device with underscores. e.g., Open_Wobble_Switch
- - <DeviceName> Replace this with the human-readable name of the device with spaces. e.g., Open Wobble Switch
- - <DesignerName> Replace this with the person or organization responsible for the design. e.g., John Doe.
- - <RepositoryLink> Replace this with the web address for the repository. e.g., (e.g., https://github.com/makersmakingchange/Open-Wobble-Switch))
- - <MMCWebLink> This is an alphanumeric id for the Makers Making Change Website. e.g., 01tJR000000698oYAA. This will come from MMC staff. 
- --->
- 
- <!--- 
 TITLE
-Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
  --->
-# <DeviceName>
-
-
+# Felting Needle Holder
 
 <!--- 
 SUMMARY
-A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-The <DeviceName> is an assistive technology widget that makes it easier to document Open-Source Assistive Technology devices. 
+The Felting Needle Holder is an open assistive technology device intended to make it easier to hold and manipulate a felting needle. The holder is ball-shaped with a diameter of 50 mm, and is comprised of four 3D printed parts. This aid is designed to be used with a felting needle that has a metal shaft with a bent end (e.g., [DIMENSIONS Replacement Felting Needles 72-73664](https://www.amazon.ca/Dimensions-Needlecrafts-Feltworks-Replacement-Felting/dp/B004W8TGIS)).
 
-It is intended for use by makers. 
+The holder consists of several 3D printed parts. No additional hardware is required. The overall cost of materials is about $1.
 
-The device is comprised of off-the-shelf electronics and 3D printed parts. 
+The Felting Needle Holder is an open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-The overall cost of materials is about $<MaterialCost> (plus $<ShippingCost> for component shipping).
+Last Updated: 2024-May-16
+The latest version (1.0) now includes a cover for the needle and labels to help indicate the direction to spin the ball to open or close it. The previous version (0.2) was built and tested by at least one user.
 
-<img src="Photos/<Device_Name>.jpg" width="500" alt="Picture of <DeviceName>.">
+<img src="Photos/Felting_Needle_Holder.jpg" width="500" alt="A ball-shaped Felting Needle Holder.">
 
 ## More info at
-- [Makers Making Change Assistive Device Library Listing](<MMCWebLink>)
+- [Makers Making Change Assistive Device Library Listing](https://www.makersmakingchange.com/s/product/felting-needle-holder/01tJR000004E3gVYAS)
 
 ## How to Obtain the Device
 ### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
@@ -55,7 +31,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-You may also submit a build request through the [Makers Making Change Assistive Device Library Listing](<MMCWebLink>) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
+You may also submit a build request through the [Makers Making Change Assistive Device Library Listing](https://www.makersmakingchange.com/s/product/felting-needle-holder/01tJR000004E3gVYAS) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
 
 ### 3. Build this device for someone else
 
@@ -66,21 +42,21 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/<Device_Name>_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, programming instructions (if applicable) and testing.
+The [Maker Guide](/Documentation/Felting_Needle_Holder_Maker_Guide.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/<Device_Name>_BOM.xlsx) lists all of the parts and components required to build the device.
+The [Bill of Materials](/Documentation/Felting_Needle_Holder_BOM.xlsx) lists all of the parts and components required to build the device.
 
 
 ### 3. Print the 3D Printable components
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 4. Assemble the <DeviceName>
+### 4. Assemble the Felting Needle Holder
 
-Reference the [Assembly Guide](/Documentation/<Device_Name>_Assembly_Guide.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section of the [Maker Guide](/Documentation/Felting_Needle_Holder_Maker_Guide.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
@@ -89,36 +65,30 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [<DeviceName>_Design_Rationale](/Documentation/<Device_Name>_Design_Rationale.pdf)     |
-| Maker Guide          | 1.0     | [<DeviceName>_Maker_Checklist](/Documentation/<Device_Name>_Maker_Guide.pdf)     |
-| Bill of Materials    | 1.0     | [<DeviceName>_Bill_of_Materials](/Documentation/<Device_Name>_BOM.xlsx)     |
-| User Guide           | 1.0     | [<DeviceName>_User_Guide](/Documentation/<Device_Name>_Quick_Guide.pdf)    |
+| Design Rationale     | 1.0     | [Felting_Needle_Holder_Design_Rationale](/Documentation/Felting_Needle_Holder_Design_Rationale.pdf)     |
+| Maker Guide          | 1.0     | [Felting_Needle_Holder_Maker_Checklist](/Documentation/Felting_Needle_Holder_Maker_Guide.pdf)     |
+| Bill of Materials    | 1.0     | [Felting_Needle_Holder_Bill_of_Materials](/Documentation/Felting_Needle_Holder_BOM.xlsx)     |
+| User Guide           | 1.0     | [Felting_Needle_Holder_User_Guide](/Documentation/Felting_Needle_Holder_User_Guide.pdf)    |
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
 <!---
 DESIGN FILES
-Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP)
 --->
  - [CAD Files](/Design_Files/CAD_Design_Files)
- - [PCB Files](/Design_Files/PCB_Design_Files)
 
 <!---
 BUILD FILES
-Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware
 --->
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
- - [PCB Build Files](/Build_Files/PCB_Build_Files)
- - [Firmware Files](/Build/Firmware_Files)
 
 <!---
 ATTRIBUTION
-Provide any necessary attribution for designs or components that are included in the device or as part of the project.
 --->
 ## Attribution
 
-The device was designed by <DesignerName>. 
+This device was designed by the Neil Squire Society / Makers Making Change.
 
 <!---
 This is the attribution for the template.
@@ -127,32 +97,28 @@ The documentation template was created by Makers Making Change / Neil Squire Soc
 
 <!---
 CONTRIBUTORS
-List the names of the people that contributed to the design. This could include the original source of the idea, designers, testers, documenters, etc.
 --->
 ### Contributors
 
-Designers:
- - Designer 1 
- - Designer 2
-
+Zee Kesler. Initial idea and design challenge.
+Jake McIvor, Neil Squire Society. Design and documentation.
 
 <!---
 LICENSE
 Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials.
 --->
 ## License
-Copyright (c) YYYY <DesignerName>.
+Copyright (c) 2022-2024 Neil Squire Society.
 
 This repository describes Open Hardware:
- - Everything needed or used to design, make, test, or prepare the <Device-Name> is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
- - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
- - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <Device-Name> are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
+ - Everything needed or used to design, make, test, or prepare the Felting Needle Holder is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
+ - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Felting Needle Holder are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
 
 You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <Repository_Link> 
+Source Location: https://github.com/makersmakingchange/Felting-Needle-Holder
 
 
 ---
