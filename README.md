@@ -100,8 +100,8 @@ CONTRIBUTORS
 --->
 ### Contributors
 
-Zee Kesler. Initial idea and design challenge.
-Jake McIvor, Neil Squire Society. Design and documentation.
+ - Zee Kesler. Initial idea and design challenge.
+ - Jake McIvor, Neil Squire Society. Design and documentation.
 
 <!---
 LICENSE
