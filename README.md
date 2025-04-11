@@ -1,15 +1,9 @@
-<!--- 
-Open Source Assistive Technology: GitHub Readme Template Version 1.1 (2024-Mar-15)
- --->
+<!---  Open Source Assistive Technology: GitHub Readme Template Version 1.1 (2024-Mar-15)  --->
 
-<!--- 
-TITLE
- --->
+<!---  TITLE  --->
 # Felting Needle Holder
 
-<!--- 
-SUMMARY
- --->
+<!---  SUMMARY  --->
 The Felting Needle Holder is an open assistive technology device intended to make it easier to hold and manipulate a felting needle. The holder is ball-shaped with a diameter of 50 mm, and is comprised of four 3D printed parts. This aid is designed to be used with a felting needle that has a metal shaft with a bent end (e.g., [DIMENSIONS Replacement Felting Needles 72-73664](https://www.amazon.ca/Dimensions-Needlecrafts-Feltworks-Replacement-Felting/dp/B004W8TGIS)).
 
 The holder consists of several 3D printed parts. No additional hardware is required. The overall cost of materials is about $1.
@@ -72,41 +66,28 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Changelog            | 1.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
-<!---
-DESIGN FILES
---->
+<!--- DESIGN FILES --->
  - [CAD Files](/Design_Files/CAD_Design_Files)
 
-<!---
-BUILD FILES
---->
+<!--- BUILD FILES --->
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
-<!---
-ATTRIBUTION
---->
+<!--- ATTRIBUTION --->
 ## Attribution
 
 This device was designed by the Neil Squire Society / Makers Making Change.
 
-<!---
-This is the attribution for the template.
---->
+<!--- This is the attribution for the template. --->
 The documentation template was created by Makers Making Change / Neil Squire Society and is used under a CC BY-SA 4.0 license. It is available at the following link: [https://github.com/makersmakingchange/OpenAT-Template](https://github.com/makersmakingchange/OpenAT-Template)
 
-<!---
-CONTRIBUTORS
---->
+<!--- CONTRIBUTORS --->
 ### Contributors
 
  - Zee Kesler. Initial idea and design challenge.
  - Jake McIvor, Neil Squire Society. Design and documentation.
 
-<!---
-LICENSE
-Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials.
---->
+<!--- LICENSE Add the year(s) for the copyright and the Designer Name. You may use the standard set of open licenses or choose your own for the hardware, software, and accompanying materials. --->
 ## License
 Copyright (c) 2022-2024 Neil Squire Society.
 
@@ -123,6 +104,7 @@ Source Location: https://github.com/makersmakingchange/Felting-Needle-Holder
 
 ---
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -141,3 +123,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
